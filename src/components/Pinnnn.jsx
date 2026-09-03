@@ -11,7 +11,7 @@ const Pinnnn = () => {
       scrollTrigger: {
         trigger: ".ppage",
         scroller: "body",
-        markers: true,
+        // markers: true,
         start: "top 0%",
         end: "top -150%",
         scrub: 2,
